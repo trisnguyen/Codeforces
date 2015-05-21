@@ -1,7 +1,8 @@
 /* ---------------------------------------------------------------------------
 ** This software is under the MIT license (MIT)
-** 328A_IQTest.cpp
-** Problem: http://codeforces.com/problemset/problem/328/A
+
+** 544B_SeaAndIslands.cpp
+** Problem: http://codeforces.com/problemset/problem/544/B
 **
 ** Author: Tristan Nguyen
 ** Email: trismnguyen@gmail.com
